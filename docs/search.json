@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "content/Publications.html",
+    "href": "content/Publications.html",
+    "title": "Li Lin(李林)",
+    "section": "",
+    "text": "[1] MA J, LI L, LI J. Fuzzy average edge connectivity with its application to communication networks[J]. Soft Computing, 2022 : 1-12."
+  },
+  {
+    "objectID": "content/Publications.html#通讯论文",
+    "href": "content/Publications.html#通讯论文",
+    "title": "Li Lin(李林)",
+    "section": "",
+    "text": "[1] MA J, LI L, LI J. Fuzzy average edge connectivity with its application to communication networks[J]. Soft Computing, 2022 : 1-12."
+  },
+  {
+    "objectID": "content/Publications.html#一作论文",
+    "href": "content/Publications.html#一作论文",
+    "title": "Li Lin(李林)",
+    "section": "2 一作论文",
+    "text": "2 一作论文\n\n2.1 在博士期间的研究成果\n[1] LI L, TANG J, DING H, et al. On the linear transform technique for generating rough surfaces[J]. Tribology International, 2021, 163 : 107182.\n[2] LI L, TANG J, WEN Y, et al. Numerical simulation of ultrasonic-assisted grinding surfaces with fast fourier transform[J]. Journal of Tribology, 2020, 142(9) : 092301.\n[3] LI L, TANG J, WEN Y, et al. Characterization of ultrasonic-assisted grinding surface via the evaluation of the autocorrelation function[J]. The International Journal of Advanced Manufacturing Technology, 2019, 104 : 4219-4230."
+  },
+  {
+    "objectID": "content/Publications.html#其它",
+    "href": "content/Publications.html#其它",
+    "title": "Li Lin(李林)",
+    "section": "3 其它",
+    "text": "3 其它\n\n3.1 与导师团队合作(中南大学)\n[1] TANG J, CHEN J, YANG D, et al. A new method of layered superposition reconstruction modeling on grinding-shot peening surfaces[J]. Surface Topography : Metrology and Properties, 2022, 10(4) : 045010.\n[2] WEN Y, TANG J, ZHOU W, et al. New analytical model of elastic-plastic contact for three dimensional rough surfaces considering interaction of asperities[J]. Friction, 2022 : 1-15.\n[3] XIA F, TANG J, LI L, et al. An improved fft method for shot peening surface reconstruction[J]. Surface Topography : Metrology and Properties, 2022, 10(2) : 025028.\n[4] WEN Y, TANG J, ZHOU W, et al. A reconstruction and contact analysis method of three dimensional rough surface based on ellipsoidal asperity[J]. Journal of Tribology, 2020, 142 (4) : 041502.\n[5] LI G W, TANG J Y, ZHOU W, et al. Fatigue life prediction of workpiece with 3d rough surface topography based on surface reconstruction technology[J]. Journal of Central south university, 2018, 25(9) : 2069-2075.\n\n\n3.2 与刘志奇老师团队合作(太原科技大学)\n[6] Chen D, Liu Z, Li L, et al. Manufacturing of dies and an experimental study on the cold-press surface-texture forming process[J]. Journal of Manufacturing Processes, 2023, 99: 27-37."
+  },
+  {
+    "objectID": "content/Research.html",
+    "href": "content/Research.html",
+    "title": "Li Lin(李林)",
+    "section": "",
+    "text": "围绕高性能关键基础零部件设计制造展开，具体包括\n\n\n\n\n[1] 大学生创新训练项目《基于Python和CATIA的轴向柱塞泵参数化建模》\n该项目根据图纸标注尺寸自动生成CATIA三维模型, 可以引入加工误差建模。后期如果可能的话，可以将CATIA换成 Pythonocc 来实现。\n\n\n参考 CATIA 三维建模\n\n\n\n\n\n\n\n[1] 校级优秀博士科研启动基金, 20212035,考虑表面微观形貌特征的流固耦合接触机理研究，2021-09-30至2024-09-30, 30万，在研，主持\n[2] 优秀来晋博士科研资助，20222041, 基于线性互补理论的粗糙表面接触问题研究，2022-06-22至2025-06-22，5万， 在研，主持\n[3] 山西省高校创新项目，2022L311, 高性能柱塞泵柱塞副表面微观形貌建模基础理论研究, 2022-07-25至2025-07-25, 2万元，在研，主持\n[4] 山西省基础研究计划, 202203021222217, 高性能液压泵柱塞副表面微尺度接触机理及其优化设计研究, 2023.01-2025.12, 4万元, 在研, 主持\n\n\n\n\n国家自然科学基金"
+  },
+  {
+    "objectID": "content/Research.html#主要研究方向",
+    "href": "content/Research.html#主要研究方向",
+    "title": "Li Lin(李林)",
+    "section": "",
+    "text": "围绕高性能关键基础零部件设计制造展开，具体包括\n\n\n\n\n[1] 大学生创新训练项目《基于Python和CATIA的轴向柱塞泵参数化建模》\n该项目根据图纸标注尺寸自动生成CATIA三维模型, 可以引入加工误差建模。后期如果可能的话，可以将CATIA换成 Pythonocc 来实现。\n\n\n参考 CATIA 三维建模\n\n\n\n\n\n\n\n[1] 校级优秀博士科研启动基金, 20212035,考虑表面微观形貌特征的流固耦合接触机理研究，2021-09-30至2024-09-30, 30万，在研，主持\n[2] 优秀来晋博士科研资助，20222041, 基于线性互补理论的粗糙表面接触问题研究，2022-06-22至2025-06-22，5万， 在研，主持\n[3] 山西省高校创新项目，2022L311, 高性能柱塞泵柱塞副表面微观形貌建模基础理论研究, 2022-07-25至2025-07-25, 2万元，在研，主持\n[4] 山西省基础研究计划, 202203021222217, 高性能液压泵柱塞副表面微尺度接触机理及其优化设计研究, 2023.01-2025.12, 4万元, 在研, 主持\n\n\n\n\n国家自然科学基金"
+  },
+  {
+    "objectID": "content/Research.html#相关论文",
+    "href": "content/Research.html#相关论文",
+    "title": "Li Lin(李林)",
+    "section": "2 相关论文",
+    "text": "2 相关论文\n\n2.1 CAD/CAE 一体化建模\n@Wu-2018-advancedCAD/CAEintegration-90 阅读\n\n\n2.2 表面微观形貌\n\n2.2.1 表面微观几何表征与建模\n@Patir-1978-numericalprocedurerandom-263\n阅读\n\n\n2.2.2 表面微观接触分析\n@Zhao-2014-FullMultigridMethod-216 阅读\n\n\n2.2.3 表面微观润滑理论\n[1]\n\n\n\n2.3 液压元件设计制造\n\n\n2.4 References"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m trying to make a website that can be accessed at any time to house some of my study records.\n– https://www.deepl.com/"
+  },
+  {
+    "objectID": "content/Homepage.html",
+    "href": "content/Homepage.html",
+    "title": "Li Lin(李林)",
+    "section": "",
+    "text": "姓名: 李林\n职称: 讲师，硕士生导师\n所属：智能制造与控制技术研究所（液压教研室）\n办公地址: 太原科技大学综合楼1008\n电子邮箱: lilin1991@tyust.edu.cn"
+  },
+  {
+    "objectID": "content/Homepage.html#基本信息",
+    "href": "content/Homepage.html#基本信息",
+    "title": "Li Lin(李林)",
+    "section": "",
+    "text": "姓名: 李林\n职称: 讲师，硕士生导师\n所属：智能制造与控制技术研究所（液压教研室）\n办公地址: 太原科技大学综合楼1008\n电子邮箱: lilin1991@tyust.edu.cn"
+  },
+  {
+    "objectID": "content/Homepage.html#教育背景",
+    "href": "content/Homepage.html#教育背景",
+    "title": "Li Lin(李林)",
+    "section": "2 教育背景",
+    "text": "2 教育背景\n2016年9月-2021年5月    中南大学    获工学博士学位\n2013年9月–2016年6月    湘潭大学    获理学硕士学位\n2009年9月–2013年6月    肇庆学院    获理学学士学位"
+  },
+  {
+    "objectID": "content/Homepage.html#工作履历",
+    "href": "content/Homepage.html#工作履历",
+    "title": "Li Lin(李林)",
+    "section": "3 工作履历",
+    "text": "3 工作履历\n2021.9—至今    太原科技大学机械学院    讲师"
+  },
+  {
+    "objectID": "content/Homepage.html#科研工作",
+    "href": "content/Homepage.html#科研工作",
+    "title": "Li Lin(李林)",
+    "section": "4 科研工作",
+    "text": "4 科研工作\n\n4.1 研究领域\n高性能零部件表面形貌建模及优化设计制造理论\n\n\n4.2 承担项目\n[1] 校级优秀博士科研启动基金, 20212035,考虑表面微观形貌特征的流固耦合接触机理研究，2021-09-30至2024-09-30, 30万，在研，主持\n[2] 优秀来晋博士科研资助，20222041, 基于线性互补理论的粗糙表面接触问题研究，2022-06-22至2025-06-22，5万， 在研，主持\n[3] 山西省高校创新项目，2022L311, 高性能柱塞泵柱塞副表面微观形貌建模基础理论研究, 2022-07-25至2025-07-25, 2万，在研，主持\n[4] 山西省基础研究计划, 202203021222217, 高性能液压泵柱塞副表面微尺度接触机理及其优化设计研究, 2023.01-2025.12, 4万, 在研, 主持"
+  },
+  {
+    "objectID": "content/Homepage.html#研究生招生方向",
+    "href": "content/Homepage.html#研究生招生方向",
+    "title": "Li Lin(李林)",
+    "section": "5 研究生招生方向",
+    "text": "5 研究生招生方向\n高性能液压元件摩擦副设计理论\n\n通讯地址：中国·山西省·太原市万柏林区窊流路66号太原科技大学机械工程学院"
+  }
+]
